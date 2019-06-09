@@ -1,0 +1,1 @@
+# kaltire-storelocator-fake
