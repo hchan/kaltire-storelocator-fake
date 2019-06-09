@@ -4,3 +4,4 @@ The only purpose this repo serves to to illustrate the pipeline
 capabilties of Azure Devops
 
 Adding this line should trigger `kaltire-storelocator`
+Adding this line should trigger `kaltire-storelocator` again!
